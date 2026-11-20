@@ -1,0 +1,8 @@
+name: BACAP
+version: '${version}'
+main: io.github.itamarbleiberg.bacap.BacapPlugin
+bootstrapper: io.github.itamarbleiberg.bacap.BacapBootstrap
+api-version: '1.21.11'
+description: "BlazeandCave's Advancements Pack ${version} by Cavinator1, packaged as a Paper plugin"
+authors: [Cavinator1]
+website: https://bit.ly/3u9BXTr
